@@ -6,5 +6,5 @@ HTML, CSS, JAVASCRIPT
 
 # How to run locally
 paste the command in command prompt                                                                                                                                       
-command : git clone git@github.com:Sannareddy-Monesh/wordBeater.git                                                                                                     
+command : git clone https://github.com/Sannareddy-Monesh/wordBeater.git                                                                                                   
 (clones the files to current working directory).
